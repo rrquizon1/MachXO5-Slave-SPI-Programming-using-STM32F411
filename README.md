@@ -15,7 +15,8 @@ The programming flow used in this example is applicable to all Lattice Nexus FPG
 
 Main.c follows the procedure indicated in FPGA-TN-02271-2.1:
 
-![XO5_Image_4](https://github.com/user-attachments/assets/4e186a2a-a7c4-4ded-bd8f-4edf0f633da7)
+![image](https://github.com/user-attachments/assets/b2c1dcd3-0872-4e05-aee0-f8e3b1183187)
+
 
 ![image](https://github.com/user-attachments/assets/0f3d564f-a0f6-4837-820e-dce6124c24da)
 
